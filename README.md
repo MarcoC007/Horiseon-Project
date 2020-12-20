@@ -5,7 +5,7 @@
 * It was developed with HTML and CSS.
 
 ## Horiseon's Homepage
-* [Horiseon-Website] (https://marcoc007.github.io/Horiseon-Project/)
+* [Horiseon-Website](https://marcoc007.github.io/Horiseon-Project/)
 
 ## Horiseon's Screenshot
 ![](capture1.png)
